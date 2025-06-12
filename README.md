@@ -32,6 +32,8 @@ git clone https://github.com/Erwanprad/Projet_Data_Science.git
 cd Projet_Data_Science
 pip install -r requirements.txt
 streamlit run dashboard_app.py
+```
+
 Le dashboard s’ouvrira automatiquement dans votre navigateur par défaut.
 
 ---
