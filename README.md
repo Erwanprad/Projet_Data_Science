@@ -38,16 +38,6 @@ Le dashboard s’ouvrira automatiquement dans votre navigateur par défaut.
 
 ---
 
-## 🎬 GIFs animés  
-*(Pour illustrer le dashboard en action :)*  
-- Placez vos GIFs dans un dossier `docs` à la racine du projet.  
-- Intégrez-les ici avec Markdown, par exemple :  
-
-```markdown
-![Démonstration du dashboard](docs/dashboard_demo.gif)
-
----
-
 ## 🔍 Conclusions principales  
 - En 2019, **[Nom du pays]** affiche le score de bonheur le plus élevé, soulignant l’importance de facteurs tels que le PIB, le soutien social et l’espérance de vie.  
 - Ces facteurs socio-économiques sont étroitement liés au bien-être des populations.  
